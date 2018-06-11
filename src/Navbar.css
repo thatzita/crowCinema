@@ -1,0 +1,62 @@
+.navBarContainer {
+  /* display: inline-block; */
+  /* padding-top: 5vh; */
+  width: 40vh;
+  height: 100vh;
+  background-color: rgba(220, 100, 200, 0.7)
+}
+
+.item {}
+
+.navigation {
+  padding-top: 5vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  /* position: absolute;
+  width: 300px; */
+  height: 95vh;
+}
+
+.navList {
+  margin-top: 15vh;
+  list-style-type: none;
+}
+
+.navList>li {
+  text-align: left;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.navList>li>a {
+  color: rgba(255, 255, 255, 1);
+}
+
+.navList>li>a:hover {
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+}
+
+.navList>li>a:active {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.crowImg {
+  position: relative;
+  margin-left: 15%;
+}
+
+.navList>li>a {
+  text-decoration: none;
+}
+
+.Pquote {
+  font-style: oblique;
+  color: rgba(255, 225, 235, 0.7)
+}
+
+.h3Cinema {
+  font-family: sans-serif;
+  font-style: oblique;
+  font-weight: 100;
+  color: rgba(215, 225, 235, 0.7)
+}
