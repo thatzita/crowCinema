@@ -1,0 +1,8 @@
+.bookingContainer {
+  background-color: rgba(100, 240, 240, 0.2);
+  position: absolute;
+  top: 0;
+  margin-left: 40vh;
+  height: 100vh;
+  width: 169.8vh;
+}
